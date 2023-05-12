@@ -4,7 +4,7 @@
 
 ## 📺 Deploy
 
-<h3>LINK: <a href="layout-airbnb.vercel.app" target="_blank"></h3>
+<h3>LINK: https://layout-airbnb.vercel.app/</h3>
 <a href="layout-airbnb.vercel.app" target="_blank">
  <img src="./.github/preview.png" width="100%" style="border-radius: 6px" />
 </a>
