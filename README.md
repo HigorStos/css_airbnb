@@ -4,14 +4,14 @@
 
 ## 📺 Deploy
 
-<h2>LINK: #</h2>
-<a href="#" target="_blank">
+<h3>LINK: <a href="layout-airbnb.vercel.app" target="_blank"></h3>
+<a href="layout-airbnb.vercel.app" target="_blank">
  <img src="./.github/preview.png" width="100%" style="border-radius: 6px" />
 </a>
 
 ## 💻 Projeto
 
-Neste pequeno projeto, consegui praticar os conceitos de HTML e CSS. Utilizando algumas técnicas para criação de interface com o uso de display grid e alguns seletores do CSS.
+Neste projeto, consegui praticar os conceitos de HTML e CSS, utilizando algumas técnicas para criação de interface com o uso de display grid e alguns seletores do CSS.
 
 ## 📝 Aprendizados
 
