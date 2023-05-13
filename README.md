@@ -2,7 +2,7 @@
   Layout do Airbnb
 </h1>
 
-## 📺 Deploy
+## 📷 Deploy
 
 <h3>LINK: https://layout-airbnb.vercel.app/</h3>
 <a href="https://layout-airbnb.vercel.app/" target="_blank">
@@ -12,6 +12,11 @@
 ## 💻 Projeto
 
 Neste projeto, consegui praticar os conceitos de HTML e CSS, utilizando algumas técnicas para criação de interface com o uso de display grid e alguns seletores do CSS.
+
+## 🚀 Tecnologias
+
+- HTML
+- CSS
 
 ## 📝 Aprendizados
 
