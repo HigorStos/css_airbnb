@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Neste projeto, consegui praticar os conceitos de HTML e CSS, utilizando algumas técnicas para criação de interface com o uso de display grid e alguns seletores do CSS.
+Neste projeto realizado em aula, consegui praticar os conceitos de HTML e CSS, utilizando algumas técnicas para criação de interface com o uso de display grid e alguns seletores do CSS.
 
 ## 🚀 Tecnologias
 
