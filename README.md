@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Neste projeto realizado em aula, pratiquei o uso de HTML e CSS, utilizando algumas técnicas para criação de interface com o uso de display grid e alguns seletores do CSS.
+Neste projeto realizado em aula, pratiquei o uso de HTML e CSS, utilizando algumas técnicas para criação de interface com o uso de display grid.
 
 ## 🚀 Tecnologias
 
